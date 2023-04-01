@@ -1,8 +1,97 @@
 .links{
     float: right;
+    font-size: 2em;
+
+    
+}
+.name{
+    font-size: 2em;
 }
 
 .links a {
     text-decoration: none;
+    color: rgba(9, 141, 207, 0.868);
 }
 
+.navbar{
+    color: rgba(9, 141, 207, 0.868);
+    margin: 10px 5px 15px;
+}
+body{
+    background-color: rgba(240, 248, 255, 0.982);
+}
+
+
+.block{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    height: 90%;
+    background-color: rgb(16, 163, 153);
+    color: white;
+    padding: 1rem;
+}
+
+
+.block2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    width: 700px;
+    height: 500px;
+    background-color: rgba(56, 190, 197, 0.843);
+    color: white;
+    padding: 1rem;
+}
+
+/* .left{
+    float: left;
+} */
+
+.career{
+    font-size: 1.3em;
+    font-family: cursive;
+}
+
+.quote_1{
+    font-size: 1.5em;
+    padding: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+
+.quote_2{
+    text-align: center;
+    padding: 15px;
+    font-size: 1.5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.social{
+    padding: 10px;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+.social a{
+    text-decoration: none;
+    font-size: 2em;
+    color: rgba(9, 141, 207, 0.868);
+}
+
+.fa-facebook{
+    margin: 15px;
+
+}
+
+.fa-instagram{
+    margin: 15px;
+
+}
+
+.fa-twitter{
+    margin: 15px;
+
+}
