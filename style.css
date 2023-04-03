@@ -95,3 +95,112 @@ body{
     margin: 15px;
 
 }
+
+.about{
+    display: block;
+    font-size: 2.2em;
+    font-family: cursive;
+    border-bottom: 1px solid;
+    width: 100%;
+    
+}
+
+.time{
+    display: block;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative; top: 10px;
+    padding: 10px;
+    
+}
+
+.time2{
+    display: block;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative; top: 10px;
+    padding: 10px;
+    
+}
+
+.time3{
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative; top: 10px;
+    padding: 10px;
+    
+}
+
+.pic1{
+    display: block;
+    float: left;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    width: 150px;
+}
+.pic2{
+    display: block;
+    float: left;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    width: 150px;
+}
+.pic3{
+    float: left;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    width: 150px;
+    height: 102px;
+}
+
+
+.develop {
+    display: block;
+    font-size: 2.2em;
+    font-family: cursive;
+    border-bottom: 1px solid;
+    width: 100%;
+    
+}
+
+
+.project_1{
+    display: block;
+    text-align: left;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative; top: 10px;
+    padding: 2px;
+}
+
+.project_2{
+    display: block;
+    text-align: right;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative; top: 10px;
+    padding: 1px;
+}
+
+.pic4{
+    display: block;
+    float: left;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    width: 150px;
+
+}
+
+.pic5{
+    display: block;
+    float: right;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    width: 150px;
+
+}
