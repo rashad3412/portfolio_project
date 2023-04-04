@@ -1,0 +1,228 @@
+.links{
+    float: right;
+    font-size: 2em;
+
+    
+}
+.name{
+    font-size: 2em;
+}
+
+.links a {
+    text-decoration: none;
+    color: rgba(9, 141, 207, 0.868);
+}
+
+.navbar{
+    color: rgba(9, 141, 207, 0.868);
+    margin: 10px 5px 15px;
+}
+body{
+    background-color: rgba(240, 248, 255, 0.982);
+}
+
+
+.block{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    height: 90%;
+    background-color: rgb(16, 163, 153);
+    color: white;
+    padding: 1rem;
+}
+
+
+.block2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    width: 700px;
+    height: 550px;
+    background-color: rgba(56, 190, 197, 0.843);
+    color: white;
+    padding: 1rem;
+}
+
+/* .left{
+    float: left;
+} */
+
+.career{
+    font-size: 1.3em;
+    font-family: cursive;
+}
+
+.quote_1{
+    font-size: 1.5em;
+    padding: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+
+.quote_2{
+    text-align: center;
+    padding: 15px;
+    font-size: 1.5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.social{
+    padding: 10px;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+.social a{
+    text-decoration: none;
+    font-size: 2em;
+    color: rgba(9, 141, 207, 0.868);
+}
+
+.fa-facebook{
+    margin: 15px;
+
+}
+
+.fa-instagram{
+    margin: 15px;
+
+}
+
+.fa-twitter{
+    margin: 15px;
+
+}
+
+.about{
+    font-family: cursive;
+    border-bottom: 1px solid;
+    width: 100%;
+    margin: 0;
+    
+}
+
+.child{
+    display: block;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative; top: 10px;
+    padding: 5px;
+    
+}
+
+.child h2{
+    font-size: 15px;
+    margin: 5px;
+}
+
+
+.time{
+    display: block;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative; top: 10px;
+    padding: 10px;
+    
+}
+
+
+.pic1{
+    display: block;
+    float: left;
+    margin: 5px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    width: 150px;
+}
+.pic2{
+    display: block;
+    float: left;
+    margin: 5px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    width: 150px;
+}
+.pic3{
+    display: block;
+    float: left;
+    margin: 5px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    width: 150px;
+    height: 102px;
+}
+
+
+.develop {
+    display: block;
+    font-family: cursive;
+    border-bottom: 1px solid;
+    width: 100%;
+    
+}
+
+
+.project_1{
+    background-color: white;
+    color: black;
+    display: block;
+    text-align: left;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative; top: 10px;
+    padding: 2px;
+}
+
+.project_2{
+    background-color: white;
+    color: black;
+    display: block;
+    text-align: right;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative; top: 10px;
+    padding: 1px;
+}
+.project_3{
+    background-color: white;
+    color: black;
+    display: block;
+    text-align: left;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative; top: 10px;
+    padding: 1px;
+}
+
+.pic4{
+    display: block;
+    float: left;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    width: 150px;
+
+}
+
+.pic5{
+    display: block;
+    float: right;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    width: 150px;
+
+}
+.pic6{
+    display: block;
+    float: left;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    width: 150px;
+
+}
+
