@@ -1,3 +1,10 @@
+.background{
+    display: flex;
+    justify-content: last baseline;
+    
+}
+
+
 .links{
     float: right;
     font-size: 2em;
@@ -23,7 +30,8 @@ body{
 
 
 .block{
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
     margin-left: auto;
     margin-right: auto;
     width: 85%;
@@ -35,7 +43,8 @@ body{
 
 
 .block2 {
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
@@ -70,8 +79,9 @@ body{
 }
 
 .social{
-    padding: 10px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
     font-size: 1.1em;
 }
 
@@ -97,6 +107,8 @@ body{
 }
 
 .about{
+    display: block;
+    flex-wrap: wrap;
     font-family: cursive;
     border-bottom: 1px solid;
     width: 100%;
@@ -105,54 +117,58 @@ body{
 }
 
 .child{
-    display: block;
-    text-align: left;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: flex-start;
     font-family: Georgia, 'Times New Roman', Times, serif;
     position: relative; top: 10px;
     padding: 5px;
+    margin-bottom: 20px;
     
 }
 
-.child h2{
-    font-size: 15px;
+.child h2 {
+    font-size: 10px;
     margin: 5px;
 }
 
 
-.time{
-    display: block;
-    font-size: 15px;
+
+.time h2{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 335px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     position: relative; top: 10px;
-    padding: 10px;
+    padding: 0px;
     
 }
 
 
 .pic1{
-    display: block;
+   
     float: left;
-    margin: 5px;
-    border: 1px solid #ddd;
-    border-radius: 2px;
+    margin: 0px;
+    border-radius: 1px;
     width: 150px;
+    padding: 10px;
 }
 .pic2{
-    display: block;
+
     float: left;
-    margin: 5px;
-    border: 1px solid #ddd;
+    margin: 5px; 
     border-radius: 2px;
     width: 150px;
+    padding: 10px;
 }
 .pic3{
-    display: block;
+  
     float: left;
     margin: 5px;
-    border: 1px solid #ddd;
-    border-radius: 2px;
-    width: 150px;
+    border-radius: 1px;
+    width: 525px;
     height: 102px;
+    padding: 10px;
 }
 
 
