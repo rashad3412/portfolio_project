@@ -1,6 +1,6 @@
 .background{
     display: flex;
-    justify-content: last baseline;
+    
     
 }
 
@@ -240,5 +240,22 @@ body{
     border-radius: 2px;
     width: 150px;
 
+}
+
+.form {
+    position: relative;
+    top: 50px;
+    left: 50px;
+    display: block;
+    white-space: nowrap;
+    height: 20px;
+    width: 200px;
+    padding: 2px;
+    margin:2px 0 20px 10px
+}
+
+#email{
+    white-space: nowrap;
+    margin-left: 34px;
 }
 
