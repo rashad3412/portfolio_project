@@ -1,9 +1,12 @@
+
 .background{
-    display: flex;
-    
-    
+    display: block;
+
 }
 
+.links :hover{
+    opacity: 0.8;
+}
 
 .links{
     float: right;
@@ -31,11 +34,9 @@ body{
 
 .block{
     display: flex;
-    flex-wrap: wrap;
-    margin-left: auto;
-    margin-right: auto;
-    width: 85%;
+    width: 90%;
     height: 90%;
+    margin: auto;
     background-color: rgb(16, 163, 153);
     color: white;
     padding: 1rem;
@@ -107,7 +108,7 @@ body{
 }
 
 .about{
-    display: block;
+    display: flex;
     flex-wrap: wrap;
     font-family: cursive;
     border-bottom: 1px solid;
@@ -258,4 +259,3 @@ body{
     white-space: nowrap;
     margin-left: 34px;
 }
-
